@@ -1,0 +1,1 @@
+Again it's a point and click game where you click on the image which you must intsall it on the same folder as the python program. Then Scorpions lyrics show up and that's it!!! (On map_1000.py repository I explain how you run the program as on the issues folder I've posted a video). Enjoy!
